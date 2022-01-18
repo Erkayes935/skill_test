@@ -1,0 +1,4 @@
+Nama	:	Refia Karsista
+Umur	:	25 Tahun
+Stack	:	Backend
+Bahasa Pemrograman	:	Python
